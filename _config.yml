@@ -17,7 +17,7 @@ title: "Hello. I am Kristian Gonzalez Barman."
 email: 'kristiancampbell.gonzalezbarman@ugent.be'
 description: "My main interests are philosophy of science and explainable AI."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://github.com/KG-Barman/KG-Barman.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'KG-Barman'
 
 # Build settings
